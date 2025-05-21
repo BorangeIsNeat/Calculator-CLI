@@ -1,0 +1,5 @@
+Features List
+  -Able to be able to feed with parameters, or open application to use as a cli
+  -Parse human readable input in an equation format
+    -3(4), 3 * 4, 3*4, and 3 ( 4 ) all give the same result
+  	
